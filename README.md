@@ -1,4 +1,4 @@
-# Network-Scanner
+# NETWORK-SCANNER
 <br>
 
 # What is Network Scanner
